@@ -1,5 +1,5 @@
 # Creditcard Fraud Detection System
-We will be working on the project from kaggle: https://www.kaggle.com/competitions/ieee-fraud-detection/data
+We will be working on the project from kaggle: https://www.kaggle.com/competitions/ieee-fraud-detection/datain
 
     .
     ├── data                    # data files location
